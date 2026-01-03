@@ -10,7 +10,6 @@ import world.Cell;
 import world.WorldMap;
 
 
-// Класс заполняет карту начальными сущностями
 public class PopulateMap implements Action {
 
     @Override
